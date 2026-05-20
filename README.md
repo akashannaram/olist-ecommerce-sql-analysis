@@ -83,7 +83,8 @@ This project demonstrates the ability to:
 * Derive actionable business insights
 
 ---
-
+## 📊 Power BI Dashboard
+[https://github.com/akashannaram/olist-powerbi-project)
 
 ## 🙋‍♂️ Author
 
