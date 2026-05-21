@@ -89,6 +89,5 @@ This project demonstrates the ability to:
 ## 🙋‍♂️ Author
 
 **Akash Annaram**
- ( Data Analyast)
 ---
 
